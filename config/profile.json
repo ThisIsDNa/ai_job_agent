@@ -1,0 +1,36 @@
+{
+  "target_roles": [
+    "Business Analyst",
+    "Systems Analyst",
+    "Operations Analyst"
+  ],
+  "core_skills": [
+    "SQL",
+    "SQL querying",
+    "data analysis with SQL",
+    "Excel",
+    "Power BI",
+    "Power BI dashboards",
+    "requirements analysis",
+    "business requirements",
+    "functional requirements",
+    "acceptance criteria",
+    "stakeholder management",
+    "stakeholder alignment",
+    "stakeholder communication",
+    "cross-functional collaboration",
+    "UAT",
+    "UAT planning",
+    "user acceptance testing",
+    "test case design",
+    "test execution",
+    "defect tracking",
+    "data analysis",
+    "reporting",
+    "dashboard development",
+    "process improvement",
+    "workflow optimization",
+    "operational efficiency"
+  ],
+  "years_experience": 6
+}

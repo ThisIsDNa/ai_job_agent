@@ -1,0 +1,10 @@
+# Core runtime
+streamlit
+pydantic
+sqlalchemy
+python-dotenv
+requests
+beautifulsoup4
+
+# Tests
+pytest
